@@ -1,0 +1,15 @@
+{
+    "name": "projet",
+    "version": "1.5.0",  
+    "scripts": {
+      "start": "live-server"
+    },
+    "devDependencies": {  
+      "live-server": "^1.2.2" 
+    },
+    "compilerOptions": {  
+      "target": "es5",
+      "lib": ["es2016", "dom"]
+    }
+  }
+  
